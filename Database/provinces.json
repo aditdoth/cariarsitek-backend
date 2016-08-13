@@ -1,0 +1,16 @@
+{
+	"_id" : ObjectId("576c115a814e46400cfdc802"),
+	"province" : "DKI Jakarta"
+},
+{
+	"_id" : ObjectId("576c115a814e46400cfdc803"),
+	"province" : "Jawa Barat"
+},
+{
+	"_id" : ObjectId("576c115a814e46400cfdc804"),
+	"province" : "Jawa Tengah"
+},
+{
+	"_id" : ObjectId("576c115a814e46400cfdc805"),
+	"province" : "Banten"
+},

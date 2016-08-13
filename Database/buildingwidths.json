@@ -1,0 +1,20 @@
+{
+	"_id" : ObjectId("57715412ff381fc81a90aa0c"),
+	"width" : "201 - 300 m2"
+},
+{
+	"_id" : ObjectId("57715412ff381fc81a90aa0d"),
+	"width" : "101 - 200 m2"
+},
+{
+	"_id" : ObjectId("57715412ff381fc81a90aa0e"),
+	"width" : "201 - 300 m2"
+},
+{
+	"_id" : ObjectId("57715412ff381fc81a90aa0f"),
+	"width" : "301 - 400 m2"
+},
+{
+	"_id" : ObjectId("57715412ff381fc81a90aa10"),
+	"width" : "401 - 500 m2"
+},

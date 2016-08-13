@@ -1,0 +1,20 @@
+{
+	"_id" : ObjectId("576b97c1131d5a681ca7ecfb"),
+	"type" : "Rumah Minimalis"
+},
+{
+	"_id" : ObjectId("576b97ff131d5a681ca7ecfe"),
+	"type" : "Rumah Mewah"
+},
+{
+	"_id" : ObjectId("576b97ff131d5a681ca7ecff"),
+	"type" : "Rumah Tradisional"
+},
+{
+	"_id" : ObjectId("576b97ff131d5a681ca7ed00"),
+	"type" : "Rumah Unik"
+},
+{
+	"_id" : ObjectId("5796278ab03dd9741a35859a"),
+	"type" : "design interior"
+},
